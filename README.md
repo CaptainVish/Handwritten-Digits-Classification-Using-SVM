@@ -1,4 +1,4 @@
-# MNIST-Digits-Classification-Using-SVM
+# MNIST-Handwritten-Digits-Classification-Using-SVM
 
 In this notebook, our objective is to explore the popular MNIST dataset and build an SVM model to classify handwritten digits. Here is a detailed description of the dataset.
 
